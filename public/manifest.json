@@ -1,0 +1,31 @@
+{
+  "name": "Cobra Pro Max",
+  "short_name": "Cobra Pro Max",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0c2b5e",
+  "theme_color": "#0c2b5e",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["games", "arcade", "casual"],
+  "description": "Cobra Pro Max - batalha de minhocas em arena, com peles, alimentos, telas de fundo e ranking mundial. Pacote: com.cobrapromax.game",
+  "icons": [
+    { "src": "/icons/icon-96.png", "sizes": "96x96", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.cobrapromax.game",
+      "url": "https://play.google.com/store/apps/details?id=com.cobrapromax.game"
+    }
+  ]
+}
